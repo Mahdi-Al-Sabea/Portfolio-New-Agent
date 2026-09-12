@@ -1,0 +1,60 @@
+--- Page 1 ---
+Mahdi Al Sabeh 
+Address: Beirut, Lebanon | +961 81677521 | mahdi.alsabea@gmail.com | Portfolio | GitHub | LinkedIn 
+ 
+EDUCATION 
+Antonine University                                                                                                   Baabda, Lebanon Sep. 2022 – June 2025 
+Bachelor of Computer Science, GPA: 3.1/4.0                                                                                                                    
+● Relevant Courses: Object Oriented Programming, Operating Systems, Data Structures and Algorithms, Database, Web 
+Development, Computer Networks, Ai and Machine Learning, Computer Security 
+ 
+PROJECTS 
+DocuGov+ – Express.js, React Native, React.js, Node.js, PostgreSQL 
+Mobile app for applying for Lebanese governmental documents through Mukhtars. 
+• Secure role-based authentication with JWT & email verification. 
+• Express.js REST API managing users, applications & Mukhtars with PostgreSQL. 
+• React Native frontend with dark mode & bilingual support; React.js admin dashboard. 
+• Features: AI-based image verification with Google Gemini & Azure Blob storage, live notifications, appointment scheduling, Google 
+Maps Mukhtar selection, QR scanning, and document image generation. 
+ 
+Beep Beep – Laravel, Bootstrap, PHP, MySQL 
+Full-stack delivery management platform. 
+• RESTful APIs for users, orders, statuses, and drivers. 
+• Secure JWT & Google OAuth-based multi-role authentication (admin, driver, customer). 
+• Responsive interface with live order tracking, OTP sign-in, live chat, driver auto-assignment, and payments (cash, Stripe, 
+cryptocurrency). 
+ 
+Task Management Website – .NET, React.js, Bootstrap, C#, MySQL 
+Full-stack task manager for admins/employees. 
+• .NET RESTful API for projects, tasks, and user management with JWT authentication. 
+• React.js frontend with kanban boards, calendar views, task search/filter, and CRUD operations. 
+ 
+PROFESSIONAL EXPERIENCE 
+ 
+Web Development Intern, IDS                  Beirut, Lebanon June. 2025 – July 2025 
+ 
+• Built a Meeting Room Booking & Minutes Management System using Laravel (API), React.js, and MySQL, featuring: 
+o Room scheduling with conflict prevention, calendar views and a map showcasing rooms that can be reserved on every floor. 
+o Sanctum-authenticated user roles (Admin/Employee/Guest) and admin panel. 
+o MoM (Minutes of Meeting) module with action item tracking and PDF summaries. 
+• Optimized database queries and API integrations for improved performance. 
+ 
+Web Development Intern, Vanrise     Baabda, Lebanon Apr. 2025 – June 2025 
+ 
+• Developed RESTful APIs for a reservation system using .NET and SQL Server, ensuring reliable and secure data management 
+• Designed and implemented responsive front-end pages with AngularJS, seamlessly integrating them with the .NET backend for 
+dynamic data interaction. 
+• Optimized database operations by creating and utilizing stored procedures to improve performance and maintainability. 
+ 
+KEY SKILLS 
+ 
+   Programming Languages: Java, C++, C#, Python, PHP, Node.js 
+   Front-End Development: JavaScript, HTML, CSS, React.js, Angular, React Native, Bootstrap, Tailwind CSS 
+   Back-End Development: Express.js, Laravel, ASP.NET, TypeGraphQL 
+   Databases: 
+• SQL: PostgreSQL, MySQL, Microsoft SQL Server 
+• NoSQL: MongoDB, Redis 
+   Cloud & DevOps: Microsoft Azure (Azure DevOps, Database Management, Security Tools, Cloud Deployment), Google 
+Cloud Platform, Docker(docker compose),AWS deployment (S3 hosting , Elastic bean) 
+   API Development & Tools: RESTful APIs, GraphQL, Postman, Apollo Sandbox, Google Maps API, Gemini API  
+   Developer Tools & Methodologies: n8n workflows, Git, GitHub, Agile, MVC Architecture, Figma, Photoshop,Qt

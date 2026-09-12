@@ -1,0 +1,40 @@
+# Environment variables & secrets (CRITICAL: never commit your API keys)
+.env
+.env*.local
+!.env.example
+
+# Python virtual environment (uv / venv)
+.venv/
+venv/
+env/
+ENV/
+
+# Binary files (Hugging Face Spaces rejects raw binary PDFs over standard git)
+*.pdf
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Visitor data & logged inquiries (keep privacy protected)
+records/*.json
+!records/.gitkeep
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs & temp files
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+

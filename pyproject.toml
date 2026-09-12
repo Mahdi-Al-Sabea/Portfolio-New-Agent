@@ -1,0 +1,16 @@
+[project]
+name = "mahdi-ai-agent"
+version = "0.1.0"
+description = "AI Digital Twin Agent for Mahdi Al Sabeh's Portfolio"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai-agents>=0.1.0",
+    "openai>=1.50.0",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.30.0",
+    "pypdf>=5.0.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+]
+
